@@ -1,6 +1,6 @@
 import Dependencies._
 
-lazy val SunRypeSweepStakes = Project("akka-http-basic", file(".")).settings(
+lazy val HealthCheck = Project("akka-http-basic", file(".")).settings(
   name := "akka-http-basic",
   organization := "Knoldus",
   version := "0.1",
